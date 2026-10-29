@@ -28,7 +28,9 @@ I am continuing to strengthen my skills in JavaScript, Git, GitHub, and modern w
 
 - ÉLISE Haute Couture — A fashion website built with HTML, CSS, and JavaScript.
 - Gentlemen's Sanctuary — A men's fashion and footwear website.
-
+- Paws & Hearts Pet Adoption - A pet adoption website featuring adorable dogs and cats.
+- Maison Pierry Bridal - An elegant luxury bridal website showcasing beautiful wedding gowns, exclusive collections, and private bridal appointments.
+ 
  ## Career Goals
 
 My goal is to become a skilled and confident web developer, creating responsive, accessible, and user-friendly websites.
