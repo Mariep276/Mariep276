@@ -37,6 +37,4 @@ I am committed to continuous learning, improving my programming skills, and buil
 
 ## Connect With Me
 
-- Facebook
-- Instagram
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/marie-pierre-03b672b4)
