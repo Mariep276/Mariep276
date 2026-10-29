@@ -30,7 +30,9 @@ I am continuing to strengthen my skills in JavaScript, Git, GitHub, and modern w
 - Gentlemen's Sanctuary — A men's fashion and footwear website.
 - Paws & Hearts Pet Adoption - A pet adoption website featuring adorable dogs and cats.
 - Maison Pierry Bridal - An elegant luxury bridal website showcasing beautiful wedding gowns, exclusive collections, and private bridal appointments.
- 
+- Moonlight Cinema — A cinema-themed website featuring movie information, an engaging visual design, and a user-friendly browsing experience.
+- Frame & Fame (Movie Madness) — An interactive movie discovery website built with HTML, CSS, and JavaScript, featuring movie searches and information retrieved through the TMDB API.
+  
  ## Career Goals
 
 My goal is to become a skilled and confident web developer, creating responsive, accessible, and user-friendly websites.
